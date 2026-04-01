@@ -11,7 +11,7 @@ import {
   type ReviewStatus,
   type WithdrawalStatus,
   type WorkerStatus,
-} from "../../../frontend/src/lib/surveymate-shared"
+} from "@/lib/surveymate-shared"
 
 export type AdminView =
   | "overview"
